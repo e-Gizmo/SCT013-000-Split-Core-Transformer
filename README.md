@@ -6,4 +6,20 @@ For more info: http://www.e-gizmo.com/oc/index.php?route=product/product&product
 
 ![Imgur](http://i.imgur.com/cm40dJZ.jpg)
 
-For Technical Support, Kindly email us at egizmo.technical@gmail.com
+### Current sensing
+###### Wiring Connections
+![Imgur](http://i.imgur.com/3iWtNXi.png)
+
+### Voltage sensing
+![Imgur](http://i.imgur.com/9zT8dmh.png)
+
+### Sample code
+https://github.com/e-Gizmo/SCT013-000-Split-Core-Transformer/blob/master/SCT013-000_Sample_code/SCT013-000_Sample_code.ino
+
+
+- For Technical Support, Kindly email us at egizmo.technical@gmail.com
+- Join Github and follow for more updates...
+- Github account: www.github.com/e-Gizmo/
+- Visit our Website at www.e-gizmo.com - [e-Gizmo Mechatronix Central](www.e-gizmo.com)
+- Facebook Page: www.facebook.com/eGizmoMechatronix/
+- YouTube Channel: www.youtube.com/channel/UCPTmP3ql3_D302-zh5sZqAw
